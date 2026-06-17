@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="dashboard">
+    <h1>Welcome, Student 👋</h1>
+    <p>Dashboard Overview</p>
+
+    <div class="dashboard-cards">
+        <div class="dash-card">📘 Study Materials</div>
+        <div class="dash-card">📢 Announcements</div>
+        <div class="dash-card">📝 Assignments</div>
+        <div class="dash-card">👤 Profile</div>
+    </div>
+
+    <button class="logout" onclick="logout()">Logout</button>
+</div>
+
+<script src="auth.js"></script>
+</body>
+</html><script>
+    const result = localStorage.getItem("loginResult");
+    const confidence = localStorage.getItem("confidence");
+
+    if (result && confidence) {
+        alert(
+            "Welcome!\n\n" +
+            "Detected User: " + result + "\n" +
+            "Confidence: " + confidence
+        );
+    }
+</script>
+

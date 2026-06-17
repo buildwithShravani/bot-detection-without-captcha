@@ -1,0 +1,1114 @@
+mouse_moves,clicks,avg_typing_speed,scroll_depth,time_spent, text,label
+
+620,28,260,1400,58,Human
+710,32,275,1650,63,Human
+680,26,250,1300,52,Human
+750,35,290,1800,70,Human
+590,22,240,1200,45,Human
+620,28,260,1400,58,normal login,Human
+710,32,275,1650,63,secure login,Human
+680,26,250,1300,52,user typing,Human
+750,35,290,1800,70,real user,Human
+590,22,240,1200,45,manual input,Human
+820,40,300,2000,85,auth activity,Human
+640,29,255,1350,54,password entry,Human
+705,31,270,1550,60,login request,Human
+780,38,295,1900,78,secure auth,Human
+660,27,260,1450,56,user session,Human
+900,45,320,2500,95,real browsing,Human
+850,42,310,2200,88,legit user,Human
+880,43,305,2300,90,manual login,Human
+920,47,330,2700,100,normal activity,Human
+870,41,300,2100,85,auth success,Human
+20,8,170,4,650,normal user login typing slowly,Human
+120,6,180,350,12,secure login page,Human
+95,5,165,280,10,checking my account,Human
+140,7,210,420,15,please login to dashboard,Human
+110,6,190,360,13,user entering credentials,Human
+90,4,150,250,9,access profile,Human
+420,18,185,920,28,hello how are you doing today,Human
+380,15,172,860,24,i want to check my account details,Human
+510,22,210,1100,35,this is a normal login attempt,Human
+460,20,198,980,31,please allow access to my dashboard,Human
+390,14,168,800,22,i forgot my password yesterday,Human
+540,25,230,1200,40,this system works really well,Human
+470,19,205,1000,33,secure login without captcha is great,Human
+430,17,190,910,27,trying to login from my laptop,Human
+500,21,215,1080,36,checking project demo now,Human
+620,28,260,1400,58,i am typing my username slowly,Human
+710,32,275,1650,63,secure login process,Human
+680,26,250,1300,52,entering credentials manually,Human
+750,35,290,1800,70,this is a real user login,Human
+590,22,240,1200,45,normal login attempt,Human
+820,40,300,2000,85,authentic user behavior detected,Human
+640,29,255,1350,54,typing password carefully,Human
+705,31,270,1550,60,human typing pattern,Human
+780,38,295,1900,78,secure authentication system,Human
+660,27,260,1450,56,manual input provided,Human
+830,42,305,2100,90,verified human interaction,Human
+700,30,265,1500,59,slow natural typing,Human
+720,34,275,1600,64,real login request,Human
+690,28,255,1400,53,typing credentials normally,Human
+760,36,285,1750,72,user driven input behavior,Human
+810,41,300,2050,88,genuine session activity,Human
+630,26,245,1300,50,manual authentication,Human
+770,37,290,1850,75,human behavior signature,Human
+720,33,270,1600,62,real person accessing system,Human
+800,39,295,1950,82,non automated interaction,Human
+610,55,332,2429,59,normal user login activity,Human
+699,40,286,1346,59,normal user login activity,Human
+1041,47,303,1768,61,normal user login activity,Human
+995,33,248,1177,86,normal user login activity,Human
+843,57,231,2129,112,normal user login activity,Human
+1146,43,270,2941,117,normal user login activity,Human
+1123,47,294,1129,116,normal user login activity,Human
+972,53,335,1646,36,normal user login activity,Human
+1146,41,244,1077,103,normal user login activity,Human
+1161,22,222,2621,58,normal user login activity,Human
+689,60,308,2620,37,normal user login activity,Human
+934,55,340,1343,82,normal user login activity,Human
+1164,27,224,2591,39,normal user login activity,Human
+874,26,301,2500,58,normal user login activity,Human
+677,33,310,2368,85,normal user login activity,Human
+602,52,306,2973,89,normal user login activity,Human
+1162,34,297,2396,62,normal user login activity,Human
+675,53,269,1580,115,normal user login activity,Human
+821,47,253,2041,48,normal user login activity,Human
+730,51,276,1339,58,normal user login activity,Human
+1081,56,203,2957,85,normal user login activity,Human
+745,49,275,1829,68,normal user login activity,Human
+606,31,251,1520,103,normal user login activity,Human
+696,40,337,1093,46,normal user login activity,Human
+1096,49,230,2471,94,normal user login activity,Human
+637,50,247,1395,62,normal user login activity,Human
+1165,54,215,1062,94,normal user login activity,Human
+721,28,223,1484,120,normal user login activity,Human
+1049,56,318,1383,115,normal user login activity,Human
+1008,27,238,2341,43,normal user login activity,Human
+735,24,274,1563,102,normal user login activity,Human
+960,29,321,2500,95,normal user login activity,Human
+651,40,214,1401,43,normal user login activity,Human
+1143,60,262,2864,115,normal user login activity,Human
+927,51,210,1098,32,normal user login activity,Human
+809,58,210,1354,52,normal user login activity,Human
+1002,47,221,2080,44,normal user login activity,Human
+789,36,317,1933,120,normal user login activity,Human
+854,41,240,1706,120,normal user login activity,Human
+908,59,228,2027,97,normal user login activity,Human
+897,40,339,2775,72,normal user login activity,Human
+643,60,326,1169,30,normal user login activity,Human
+952,30,284,2053,96,normal user login activity,Human
+1026,23,224,1868,84,normal user login activity,Human
+965,42,261,2074,91,normal user login activity,Human
+966,32,249,1895,72,normal user login activity,Human
+770,33,273,2562,53,normal user login activity,Human
+635,58,301,2110,120,normal user login activity,Human
+709,39,263,2362,114,normal user login activity,Human
+807,22,324,1331,77,normal user login activity,Human
+895,35,237,2434,73,normal user login activity,Human
+706,55,324,1672,70,normal user login activity,Human
+915,46,308,2842,68,normal user login activity,Human
+710,22,221,1505,104,normal user login activity,Human
+640,50,200,1709,116,normal user login activity,Human
+1158,30,213,2572,47,normal user login activity,Human
+1057,53,329,1205,120,normal user login activity,Human
+710,37,206,2189,37,normal user login activity,Human
+954,57,235,1834,95,normal user login activity,Human
+841,21,222,2062,72,normal user login activity,Human
+950,55,292,2057,41,normal user login activity,Human
+957,54,308,2769,95,normal user login activity,Human
+690,58,245,1422,75,normal user login activity,Human
+921,25,249,1727,30,normal user login activity,Human
+1154,34,219,1654,67,normal user login activity,Human
+915,40,305,1510,92,normal user login activity,Human
+735,34,220,1267,82,normal user login activity,Human
+985,55,220,1669,116,normal user login activity,Human
+785,30,343,2504,93,normal user login activity,Human
+914,41,325,1664,43,normal user login activity,Human
+623,20,280,2966,69,normal user login activity,Human
+945,59,326,2486,118,normal user login activity,Human
+995,23,337,2897,89,normal user login activity,Human
+1065,56,327,1966,38,normal user login activity,Human
+1106,32,204,1300,72,normal user login activity,Human
+1001,40,343,1878,120,normal user login activity,Human
+814,20,314,2107,60,normal user login activity,Human
+1175,39,229,1278,115,normal user login activity,Human
+655,45,269,1955,80,normal user login activity,Human
+615,24,262,2451,31,normal user login activity,Human
+941,31,336,2930,108,normal user login activity,Human
+933,39,346,1434,64,normal user login activity,Human
+964,33,344,2605,75,normal user login activity,Human
+633,58,225,2704,96,normal user login activity,Human
+1083,20,247,1469,55,normal user login activity,Human
+864,57,320,1690,87,normal user login activity,Human
+952,31,268,1413,97,normal user login activity,Human
+970,35,282,2469,45,normal user login activity,Human
+877,36,256,2482,99,normal user login activity,Human
+1195,46,212,2210,63,normal user login activity,Human
+1156,28,265,1670,79,normal user login activity,Human
+938,39,329,2706,37,normal user login activity,Human
+953,52,296,1819,116,normal user login activity,Human
+893,57,251,2559,74,normal user login activity,Human
+1064,41,349,2927,113,normal user login activity,Human
+966,53,298,1727,40,normal user login activity,Human
+665,43,323,2395,82,normal user login activity,Human
+1051,37,328,2510,79,normal user login activity,Human
+618,59,298,1127,90,normal user login activity,Human
+1103,30,228,2170,119,normal user login activity,Human
+1004,48,276,2355,68,normal user login activity,Human
+1191,51,332,1927,101,normal user login activity,Human
+845,34,209,1622,51,normal user login activity,Human
+634,49,300,1690,42,normal user login activity,Human
+699,26,252,2360,91,normal user login activity,Human
+715,29,342,1213,67,normal user login activity,Human
+644,21,255,1558,38,normal user login activity,Human
+675,60,348,2951,31,normal user login activity,Human
+1014,26,243,2475,79,normal user login activity,Human
+824,24,263,1273,101,normal user login activity,Human
+694,35,207,1909,89,normal user login activity,Human
+693,33,308,2228,85,normal user login activity,Human
+1120,41,336,2800,102,normal user login activity,Human
+1065,30,343,1650,110,normal user login activity,Human
+893,58,274,1687,116,normal user login activity,Human
+867,35,215,1693,35,normal user login activity,Human
+1001,37,205,2715,50,normal user login activity,Human
+891,40,238,1981,107,normal user login activity,Human
+785,53,255,2899,79,normal user login activity,Human
+912,44,217,1566,47,normal user login activity,Human
+1088,30,344,2224,65,normal user login activity,Human
+748,26,275,1034,104,normal user login activity,Human
+1108,33,247,2163,80,normal user login activity,Human
+1078,44,276,1103,37,normal user login activity,Human
+1200,59,333,2360,32,normal user login activity,Human
+861,54,256,1986,105,normal user login activity,Human
+763,33,214,2193,64,normal user login activity,Human
+619,22,249,1995,90,normal user login activity,Human
+1038,56,335,2591,33,normal user login activity,Human
+926,37,244,1853,59,normal user login activity,Human
+986,35,332,1652,101,normal user login activity,Human
+693,40,240,2499,74,normal user login activity,Human
+649,38,338,1060,74,normal user login activity,Human
+627,58,302,2068,55,normal user login activity,Human
+987,40,219,1751,119,normal user login activity,Human
+1111,50,262,2966,44,normal user login activity,Human
+1035,41,313,2201,66,normal user login activity,Human
+790,27,292,1546,40,normal user login activity,Human
+913,58,226,1045,80,normal user login activity,Human
+978,38,221,1683,32,normal user login activity,Human
+812,46,260,1675,46,normal user login activity,Human
+808,38,334,2457,102,normal user login activity,Human
+731,55,253,2972,36,normal user login activity,Human
+866,47,318,1932,89,normal user login activity,Human
+1121,33,267,1535,51,normal user login activity,Human
+885,55,269,2482,73,normal user login activity,Human
+1117,59,232,2800,105,normal user login activity,Human
+946,24,293,1576,75,normal user login activity,Human
+768,30,298,1184,119,normal user login activity,Human
+1194,60,289,1768,50,normal user login activity,Human
+1185,52,221,1887,56,normal user login activity,Human
+1017,59,330,1003,100,normal user login activity,Human
+904,41,208,2505,102,normal user login activity,Human
+1088,24,200,1992,66,normal user login activity,Human
+668,50,258,1443,37,normal user login activity,Human
+689,56,318,1513,40,normal user login activity,Human
+680,54,322,1250,52,normal user login activity,Human
+891,38,257,1481,79,normal user login activity,Human
+639,38,328,1753,44,normal user login activity,Human
+959,36,296,1703,66,normal user login activity,Human
+707,57,218,2996,66,normal user login activity,Human
+654,25,281,1518,50,normal user login activity,Human
+1106,33,297,1130,99,normal user login activity,Human
+916,41,271,1868,98,normal user login activity,Human
+975,23,229,2265,112,normal user login activity,Human
+730,56,249,1293,98,normal user login activity,Human
+1024,53,245,2447,38,normal user login activity,Human
+1070,29,288,1869,103,normal user login activity,Human
+1109,57,225,1087,118,normal user login activity,Human
+718,37,268,1472,68,normal user login activity,Human
+848,49,209,2626,65,normal user login activity,Human
+910,46,302,1421,77,normal user login activity,Human
+1051,22,248,2604,86,normal user login activity,Human
+804,58,314,2684,93,normal user login activity,Human
+1075,47,309,2040,88,normal user login activity,Human
+1078,48,309,1596,94,normal user login activity,Human
+909,34,330,2525,97,normal user login activity,Human
+679,39,337,1305,65,normal user login activity,Human
+1065,59,210,2279,105,normal user login activity,Human
+710,48,300,2301,80,normal user login activity,Human
+661,33,212,2923,95,normal user login activity,Human
+680,37,252,1790,109,normal user login activity,Human
+741,50,230,1393,97,normal user login activity,Human
+715,42,249,2117,83,normal user login activity,Human
+769,20,243,2179,76,normal user login activity,Human
+693,27,283,1361,69,normal user login activity,Human
+616,34,244,2960,118,normal user login activity,Human
+860,20,251,1568,32,normal user login activity,Human
+1131,26,242,1369,95,normal user login activity,Human
+917,31,340,1508,114,normal user login activity,Human
+1018,56,237,2554,77,normal user login activity,Human
+797,54,338,3000,55,normal user login activity,Human
+627,50,266,1568,91,normal user login activity,Human
+823,58,328,1333,33,normal user login activity,Human
+678,43,270,2959,48,normal user login activity,Human
+669,45,301,1000,49,normal user login activity,Human
+912,42,348,2081,73,normal user login activity,Human
+1083,27,296,1887,46,normal user login activity,Human
+1089,47,279,2146,104,normal user login activity,Human
+1183,32,213,1216,114,normal user login activity,Human
+887,42,292,2377,66,normal user login activity,Human
+627,35,263,1874,102,normal user login activity,Human
+913,38,272,1418,111,normal user login activity,Human
+900,24,301,2581,119,normal user login activity,Human
+857,42,218,2151,79,normal user login activity,Human
+970,32,245,1788,33,normal user login activity,Human
+864,52,239,1454,39,normal user login activity,Human
+687,21,285,1637,83,normal user login activity,Human
+1185,46,229,1236,67,normal user login activity,Human
+989,41,294,2375,60,normal user login activity,Human
+848,41,340,2439,101,normal user login activity,Human
+1199,25,203,2576,43,normal user login activity,Human
+1187,51,247,2595,85,normal user login activity,Human
+714,29,330,1826,84,normal user login activity,Human
+761,29,333,1535,89,normal user login activity,Human
+840,43,203,1498,64,normal user login activity,Human
+889,39,232,1909,108,normal user login activity,Human
+821,37,341,2501,55,normal user login activity,Human
+1159,30,267,2148,80,normal user login activity,Human
+667,38,221,2344,117,normal user login activity,Human
+1146,51,234,1601,31,normal user login activity,Human
+694,57,278,1303,52,normal user login activity,Human
+1108,59,322,2061,102,normal user login activity,Human
+1000,33,287,1092,86,normal user login activity,Human
+1158,34,281,2744,36,normal user login activity,Human
+685,31,330,1174,119,normal user login activity,Human
+857,53,309,2736,75,normal user login activity,Human
+941,31,302,2294,33,normal user login activity,Human
+875,52,218,1610,100,normal user login activity,Human
+983,28,245,2988,67,normal user login activity,Human
+829,43,299,2847,63,normal user login activity,Human
+706,39,290,2648,44,normal user login activity,Human
+821,29,280,2162,64,normal user login activity,Human
+1064,34,274,1552,41,normal user login activity,Human
+779,41,336,1583,108,normal user login activity,Human
+681,44,272,1335,33,normal user login activity,Human
+892,58,245,2190,82,normal user login activity,Human
+873,44,289,1459,102,normal user login activity,Human
+693,34,226,2190,74,normal user login activity,Human
+1014,43,228,1127,69,normal user login activity,Human
+1065,57,309,2795,60,normal user login activity,Human
+934,42,288,1677,120,normal user login activity,Human
+1020,43,206,2948,103,normal user login activity,Human
+636,56,202,1603,102,normal user login activity,Human
+654,36,205,1915,52,normal user login activity,Human
+849,27,302,2291,79,normal user login activity,Human
+987,54,306,1170,61,normal user login activity,Human
+663,29,328,1064,53,normal user login activity,Human
+1100,47,340,2444,55,normal user login activity,Human
+797,46,322,1175,65,normal user login activity,Human
+739,22,342,1644,53,normal user login activity,Human
+899,35,278,1766,113,normal user login activity,Human
+692,53,234,2630,94,normal user login activity,Human
+1102,29,264,1716,53,normal user login activity,Human
+747,44,320,1323,115,normal user login activity,Human
+1000,35,306,1570,46,normal user login activity,Human
+702,28,202,2842,102,normal user login activity,Human
+1043,54,241,2876,101,normal user login activity,Human
+1013,49,331,1923,33,normal user login activity,Human
+683,37,292,2111,101,normal user login activity,Human
+742,26,296,2950,114,normal user login activity,Human
+1135,36,338,1186,81,normal user login activity,Human
+1185,57,270,1208,46,normal user login activity,Human
+1059,29,216,2647,109,normal user login activity,Human
+870,56,249,1447,45,normal user login activity,Human
+1052,49,276,2394,86,normal user login activity,Human
+627,34,208,1572,44,normal user login activity,Human
+1156,21,350,1031,44,normal user login activity,Human
+813,51,337,2710,96,normal user login activity,Human
+1058,37,201,1419,43,normal user login activity,Human
+726,20,335,2380,62,normal user login activity,Human
+970,43,255,2491,75,normal user login activity,Human
+672,41,255,1400,88,normal user login activity,Human
+607,37,318,1503,59,normal user login activity,Human
+746,50,211,1097,62,normal user login activity,Human
+983,55,322,2295,111,normal user login activity,Human
+1173,47,242,2040,47,normal user login activity,Human
+775,55,312,2959,50,normal user login activity,Human
+621,37,273,1420,84,normal user login activity,Human
+764,41,275,2574,60,normal user login activity,Human
+1185,36,288,1925,54,normal user login activity,Human
+990,50,337,1277,30,normal user login activity,Human
+1084,54,237,1573,52,normal user login activity,Human
+657,38,316,2922,37,normal user login activity,Human
+686,45,311,1528,91,normal user login activity,Human
+1185,57,314,1482,86,normal user login activity,Human
+996,48,210,1915,31,normal user login activity,Human
+1061,34,223,2846,67,normal user login activity,Human
+692,41,287,2804,69,normal user login activity,Human
+1152,45,202,2536,98,normal user login activity,Human
+885,59,328,2282,49,normal user login activity,Human
+1035,57,289,1080,85,normal user login activity,Human
+811,32,209,2899,34,normal user login activity,Human
+601,28,252,2579,42,normal user login activity,Human
+724,40,342,2427,116,normal user login activity,Human
+1123,38,297,1107,104,normal user login activity,Human
+942,38,330,2264,39,normal user login activity,Human
+1027,28,347,2551,114,normal user login activity,Human
+1024,38,240,2960,104,normal user login activity,Human
+703,20,208,2679,39,normal user login activity,Human
+826,33,297,2318,83,normal user login activity,Human
+1135,37,219,2691,35,normal user login activity,Human
+852,29,272,1417,101,normal user login activity,Human
+659,60,257,1769,68,normal user login activity,Human
+998,27,257,2866,58,normal user login activity,Human
+908,54,204,1668,101,normal user login activity,Human
+831,41,325,2634,46,normal user login activity,Human
+942,41,234,1665,36,normal user login activity,Human
+897,23,201,2711,50,normal user login activity,Human
+779,35,279,2302,119,normal user login activity,Human
+642,35,248,2477,82,normal user login activity,Human
+1113,20,224,1843,50,normal user login activity,Human
+866,20,334,1560,110,normal user login activity,Human
+634,32,302,2219,38,normal user login activity,Human
+1000,22,286,2079,30,normal user login activity,Human
+1043,22,333,2135,34,normal user login activity,Human
+791,28,342,2514,81,normal user login activity,Human
+745,20,231,2937,99,normal user login activity,Human
+784,22,216,2099,103,normal user login activity,Human
+1088,27,328,2376,68,normal user login activity,Human
+717,39,319,1132,84,normal user login activity,Human
+1188,33,261,2910,66,normal user login activity,Human
+1070,27,271,2695,71,normal user login activity,Human
+631,42,306,2586,91,normal user login activity,Human
+1013,28,335,2705,85,normal user login activity,Human
+1198,37,247,1708,88,normal user login activity,Human
+806,23,291,1403,68,normal user login activity,Human
+693,41,304,2451,110,normal user login activity,Human
+718,54,342,1791,95,normal user login activity,Human
+951,31,250,1077,99,normal user login activity,Human
+899,42,216,2446,58,normal user login activity,Human
+671,34,207,1557,86,normal user login activity,Human
+1011,53,210,2791,115,normal user login activity,Human
+845,47,227,2739,103,normal user login activity,Human
+856,44,207,2261,111,normal user login activity,Human
+1054,56,281,2767,41,normal user login activity,Human
+687,32,264,1722,83,normal user login activity,Human
+823,43,297,2272,108,normal user login activity,Human
+1170,35,240,2771,36,normal user login activity,Human
+1191,20,338,2581,65,normal user login activity,Human
+603,21,211,2980,47,normal user login activity,Human
+714,22,334,2051,65,normal user login activity,Human
+933,51,341,1477,49,normal user login activity,Human
+1118,58,277,1824,33,normal user login activity,Human
+995,35,310,1875,87,normal user login activity,Human
+644,22,345,2985,56,normal user login activity,Human
+836,36,324,2139,75,normal user login activity,Human
+684,55,222,1375,38,normal user login activity,Human
+857,33,327,2509,83,normal user login activity,Human
+769,26,235,2180,112,normal user login activity,Human
+658,58,299,1877,100,normal user login activity,Human
+1181,20,272,2042,57,normal user login activity,Human
+657,22,306,2872,60,normal user login activity,Human
+659,35,316,2324,100,normal user login activity,Human
+749,24,207,1187,109,normal user login activity,Human
+804,47,325,1535,36,normal user login activity,Human
+1006,55,256,1182,59,normal user login activity,Human
+1154,25,304,2702,70,normal user login activity,Human
+675,27,216,2799,98,normal user login activity,Human
+909,53,222,1512,84,normal user login activity,Human
+1103,46,323,1603,61,normal user login activity,Human
+746,44,281,1455,90,normal user login activity,Human
+1115,47,244,2329,81,normal user login activity,Human
+996,21,288,1504,88,normal user login activity,Human
+932,59,290,2316,88,normal user login activity,Human
+716,34,264,1096,109,normal user login activity,Human
+1140,55,295,1036,69,normal user login activity,Human
+1118,33,328,2539,114,normal user login activity,Human
+971,52,338,2165,51,normal user login activity,Human
+1043,48,219,2199,49,normal user login activity,Human
+957,53,245,2254,86,normal user login activity,Human
+1196,50,240,2886,57,normal user login activity,Human
+972,32,228,1486,59,normal user login activity,Human
+1129,27,279,1275,40,normal user login activity,Human
+939,32,241,2424,49,normal user login activity,Human
+1150,55,343,1799,80,normal user login activity,Human
+842,43,276,2057,90,normal user login activity,Human
+1131,45,318,1082,84,normal user login activity,Human
+846,44,215,2828,58,normal user login activity,Human
+875,57,310,2814,50,normal user login activity,Human
+1079,23,310,1914,99,normal user login activity,Human
+1137,20,334,2417,52,normal user login activity,Human
+1168,23,200,1408,103,normal user login activity,Human
+823,27,205,1740,33,normal user login activity,Human
+648,43,267,2965,33,normal user login activity,Human
+748,53,343,2626,108,normal user login activity,Human
+813,49,205,1585,31,normal user login activity,Human
+1137,57,283,1307,82,normal user login activity,Human
+1132,34,203,1411,111,normal user login activity,Human
+1171,22,206,2659,106,normal user login activity,Human
+887,35,262,1708,114,normal user login activity,Human
+798,41,309,1889,104,normal user login activity,Human
+700,59,251,1971,110,normal user login activity,Human
+775,33,320,1974,54,normal user login activity,Human
+828,46,236,1080,42,normal user login activity,Human
+1019,34,210,2519,58,normal user login activity,Human
+618,59,321,1981,117,normal user login activity,Human
+938,47,269,1500,104,normal user login activity,Human
+946,45,243,2532,102,normal user login activity,Human
+1178,60,296,2440,48,normal user login activity,Human
+943,52,277,1722,100,normal user login activity,Human
+697,24,243,2480,83,normal user login activity,Human
+884,55,306,2306,89,normal user login activity,Human
+884,22,342,1552,119,normal user login activity,Human
+1035,58,238,2305,82,normal user login activity,Human
+891,35,200,2294,71,normal user login activity,Human
+1012,35,316,2136,115,normal user login activity,Human
+651,24,328,2073,115,normal user login activity,Human
+666,48,317,1221,68,normal user login activity,Human
+664,54,206,2269,89,normal user login activity,Human
+1194,48,334,1252,98,normal user login activity,Human
+1135,29,342,1250,118,normal user login activity,Human
+745,22,274,1646,86,normal user login activity,Human
+783,58,211,2006,38,normal user login activity,Human
+1150,54,210,2162,37,normal user login activity,Human
+1066,31,286,2767,90,normal user login activity,Human
+840,55,309,2510,85,normal user login activity,Human
+1055,39,286,2101,42,normal user login activity,Human
+823,42,237,1908,94,normal user login activity,Human
+955,57,297,2165,47,normal user login activity,Human
+803,23,325,1393,41,normal user login activity,Human
+802,49,274,1057,93,normal user login activity,Human
+1039,57,331,1412,96,normal user login activity,Human
+701,24,228,2757,94,normal user login activity,Human
+1107,56,348,1766,100,normal user login activity,Human
+646,57,215,1692,61,normal user login activity,Human
+741,51,333,1495,62,normal user login activity,Human
+1187,55,311,2183,40,normal user login activity,Human
+1051,24,303,2474,63,normal user login activity,Human
+694,53,238,1654,41,normal user login activity,Human
+734,47,297,1142,87,normal user login activity,Human
+1085,54,248,2276,36,normal user login activity,Human
+947,39,346,2178,54,normal user login activity,Human
+933,52,282,2570,64,normal user login activity,Human
+1198,51,279,1301,94,normal user login activity,Human
+1174,42,210,1672,43,normal user login activity,Human
+636,29,262,1879,84,normal user login activity,Human
+1109,31,203,2086,37,normal user login activity,Human
+1101,34,349,2362,83,normal user login activity,Human
+1055,32,344,1006,107,normal user login activity,Human
+1160,33,251,1688,74,normal user login activity,Human
+1026,20,346,1543,44,normal user login activity,Human
+820,54,313,1565,81,normal user login activity,Human
+703,37,310,2750,92,normal user login activity,Human
+1134,25,204,1384,59,normal user login activity,Human
+1068,47,324,2593,90,normal user login activity,Human
+774,50,208,1285,76,normal user login activity,Human
+684,28,251,2781,44,normal user login activity,Human
+947,49,299,2738,50,normal user login activity,Human
+937,55,267,1847,102,normal user login activity,Human
+981,45,287,2932,48,normal user login activity,Human
+947,48,233,2592,87,normal user login activity,Human
+1088,55,350,2344,117,normal user login activity,Human
+883,48,319,2615,43,normal user login activity,Human
+1089,45,280,1939,74,normal user login activity,Human
+839,28,295,2208,93,normal user login activity,Human
+1095,52,234,2725,80,normal user login activity,Human
+1093,28,234,2781,104,normal user login activity,Human
+638,26,284,2884,51,normal user login activity,Human
+838,37,289,2595,95,normal user login activity,Human
+850,49,274,2267,75,normal user login activity,Human
+1038,41,328,2685,46,normal user login activity,Human
+1200,42,270,2925,82,normal user login activity,Human
+851,42,336,1581,91,normal user login activity,Human
+855,25,283,2985,88,normal user login activity,Human
+628,56,204,2902,66,normal user login activity,Human
+660,36,322,2557,81,normal user login activity,Human
+870,34,275,2079,98,normal user login activity,Human
+954,34,327,1342,57,normal user login activity,Human
+761,21,248,2737,101,normal user login activity,Human
+971,30,229,2403,66,normal user login activity,Human
+816,47,279,1000,104,normal user login activity,Human
+829,57,264,1215,36,normal user login activity,Human
+653,59,305,1737,118,normal user login activity,Human
+975,34,287,2708,85,normal user login activity,Human
+810,30,284,1938,52,normal user login activity,Human
+979,41,217,2791,117,normal user login activity,Human
+1046,47,247,2116,70,normal user login activity,Human
+901,31,310,1845,40,normal user login activity,Human
+642,49,320,1606,50,normal user login activity,Human
+960,41,255,1387,61,normal user login activity,Human
+672,58,216,2537,83,normal user login activity,Human
+1028,34,216,2620,43,normal user login activity,Human
+913,46,207,1784,117,normal user login activity,Human
+1023,36,222,1357,117,normal user login activity,Human
+747,56,252,1957,38,normal user login activity,Human
+1017,45,241,1705,104,normal user login activity,Human
+715,28,205,2163,34,normal user login activity,Human
+1110,24,291,1026,108,normal user login activity,Human
+881,26,201,2485,59,normal user login activity,Human
+1092,53,234,1100,72,normal user login activity,Human
+683,55,223,2763,109,normal user login activity,Human
+1046,24,349,2722,37,normal user login activity,Human
+727,41,348,2935,50,normal user login activity,Human
+941,48,298,1058,36,normal user login activity,Human
+976,34,231,1620,104,normal user login activity,Human
+1108,33,318,1224,51,normal user login activity,Human
+867,47,285,2025,111,normal user login activity,Human
+991,56,224,1959,75,normal user login activity,Human
+955,46,245,2556,61,normal user login activity,Human
+
+45,1,35,0,3,aaaa123,Bot
+30,0,28,0,2,xxxxxx,Bot
+55,2,40,10,4,botlogin,Bot
+25,0,30,0,2,123456,Bot
+60,1,38,5,3,qwerty,Bot
+35,0,25,0,2,zzzzzz,Bot
+50,1,42,8,4,auto123,Bot
+20,0,20,0,1,admin,Bot
+40,1,35,0,3,password,Bot
+55,2,45,12,5,loginbot,Bot
+15,0,18,0,1,spam,Bot
+10,0,15,0,1,bot,Bot
+25,1,30,2,2,script,Bot
+35,1,32,3,2,auto,Bot
+50,2,40,10,3,test,Bot
+45,1,35,0,3, zzzzz,Bot
+30,0,28,0,2,rrrrr,Bot
+55,2,40,10,4,44444,Bot
+25,0,30,0,2, passs,Bot
+60,1,38,5,3, login,Bot
+0,45,6,0,30,automated script submission,Bot
+5,1,40,0,1,aaaa111,Bot
+8,2,60,10,2,login123,Bot
+3,1,30,0,1,xyz999,Bot
+10,2,70,15,2,testbot,Bot
+6,1,50,5,1,admin123,Bot
+20,2,45,10,3,aaaa1111,Bot
+15,1,40,5,2,login123,Bot
+30,3,55,12,4,adminadmin,Bot
+10,1,35,0,1,qwerty,Bot
+25,2,50,8,3,testtest,Bot
+18,1,42,6,2,botlogin,Bot
+12,1,38,4,2,aaaa2222,Bot
+28,3,60,15,4,xxxxxx,Bot
+14,1,41,3,1,rootroot,Bot
+22,2,48,7,3,system,Bot
+45,1,35,0,3,aaaa123,Bot
+30,0,28,0,2,xxxxxx,Bot
+55,2,40,10,4,botlogin,Bot
+25,0,30,0,2,123456,Bot
+60,1,38,5,3,qwerty,Bot
+35,0,25,0,2,zzzzzz,Bot
+50,1,42,8,4,auto123,Bot
+20,0,20,0,1,admin,Bot
+40,1,35,0,3,password,Bot
+55,2,45,12,5,loginbot,Bot
+30,0,25,0,2,aaaaaa,Bot
+45,1,38,6,3,robot,Bot
+60,2,48,15,4,test,Bot
+25,0,22,0,1,root,Bot
+50,1,40,5,3,botuser,Bot
+35,0,30,0,2,xxxx,Bot
+55,2,45,10,4,auto,Bot
+40,1,35,0,3,script,Bot
+30,0,28,0,2,spam,Bot
+20,0,20,0,1,1234,Bot
+53,0,49,182,7,spam bot login,Bot
+57,1,67,143,6,spam bot login,Bot
+26,4,45,41,4,spam bot login,Bot
+12,0,23,185,8,spam bot login,Bot
+64,5,36,181,4,spam bot login,Bot
+76,1,68,173,8,spam bot login,Bot
+67,1,62,199,8,spam bot login,Bot
+36,5,44,102,10,spam bot login,Bot
+40,2,54,121,4,spam bot login,Bot
+71,4,61,6,2,spam bot login,Bot
+57,1,60,100,8,spam bot login,Bot
+11,1,67,64,8,spam bot login,Bot
+78,2,42,163,8,spam bot login,Bot
+17,5,31,110,8,spam bot login,Bot
+15,2,54,4,2,spam bot login,Bot
+33,5,35,184,9,spam bot login,Bot
+73,1,16,100,8,spam bot login,Bot
+56,1,32,129,2,spam bot login,Bot
+16,5,23,177,9,spam bot login,Bot
+38,3,64,81,2,spam bot login,Bot
+18,2,69,47,5,spam bot login,Bot
+60,5,13,144,8,spam bot login,Bot
+14,0,16,74,9,spam bot login,Bot
+62,2,79,199,9,spam bot login,Bot
+17,5,21,21,1,spam bot login,Bot
+74,0,78,157,6,spam bot login,Bot
+50,0,56,139,8,spam bot login,Bot
+14,1,12,157,8,spam bot login,Bot
+65,3,68,165,7,spam bot login,Bot
+52,4,19,161,5,spam bot login,Bot
+42,2,65,154,5,spam bot login,Bot
+78,4,10,11,5,spam bot login,Bot
+35,0,37,67,4,spam bot login,Bot
+31,4,22,134,4,spam bot login,Bot
+37,0,36,41,10,spam bot login,Bot
+25,1,41,37,3,spam bot login,Bot
+54,3,39,55,6,spam bot login,Bot
+29,2,13,97,7,spam bot login,Bot
+10,0,70,172,2,spam bot login,Bot
+41,2,52,89,4,spam bot login,Bot
+44,2,10,109,5,spam bot login,Bot
+32,3,48,8,1,spam bot login,Bot
+54,0,58,177,1,spam bot login,Bot
+43,2,55,86,7,spam bot login,Bot
+60,4,49,156,8,spam bot login,Bot
+24,2,13,46,9,spam bot login,Bot
+10,5,75,7,7,spam bot login,Bot
+77,2,12,122,2,spam bot login,Bot
+78,4,73,131,10,spam bot login,Bot
+17,4,74,20,3,spam bot login,Bot
+55,0,25,13,4,spam bot login,Bot
+53,4,50,155,3,spam bot login,Bot
+80,2,63,8,6,spam bot login,Bot
+80,2,31,161,8,spam bot login,Bot
+67,4,43,78,6,spam bot login,Bot
+65,2,68,141,5,spam bot login,Bot
+78,3,10,196,4,spam bot login,Bot
+80,3,22,31,4,spam bot login,Bot
+76,2,77,14,7,spam bot login,Bot
+9,5,12,1,4,spam bot login,Bot
+18,3,74,168,3,spam bot login,Bot
+37,4,10,37,7,spam bot login,Bot
+52,2,54,118,4,spam bot login,Bot
+7,1,23,194,5,spam bot login,Bot
+32,1,26,115,8,spam bot login,Bot
+36,0,17,177,2,spam bot login,Bot
+77,2,76,188,5,spam bot login,Bot
+16,4,57,11,7,spam bot login,Bot
+76,4,46,157,4,spam bot login,Bot
+40,3,27,9,2,spam bot login,Bot
+69,1,19,13,6,spam bot login,Bot
+5,1,49,73,8,spam bot login,Bot
+55,1,32,148,3,spam bot login,Bot
+18,1,61,73,4,spam bot login,Bot
+45,1,53,43,8,spam bot login,Bot
+61,4,27,63,1,spam bot login,Bot
+59,4,34,38,8,spam bot login,Bot
+67,3,54,56,6,spam bot login,Bot
+38,2,65,6,7,spam bot login,Bot
+61,2,64,126,9,spam bot login,Bot
+18,3,58,89,2,spam bot login,Bot
+68,5,73,143,1,spam bot login,Bot
+46,3,62,92,2,spam bot login,Bot
+20,0,72,7,2,spam bot login,Bot
+6,4,69,133,4,spam bot login,Bot
+15,1,37,157,1,spam bot login,Bot
+11,3,24,166,4,spam bot login,Bot
+14,3,28,11,1,spam bot login,Bot
+12,5,78,134,1,spam bot login,Bot
+77,1,38,2,5,spam bot login,Bot
+71,0,70,132,7,spam bot login,Bot
+34,4,66,10,7,spam bot login,Bot
+63,1,17,122,8,spam bot login,Bot
+27,3,52,76,7,spam bot login,Bot
+39,0,18,132,5,spam bot login,Bot
+44,4,40,45,1,spam bot login,Bot
+25,4,67,169,9,spam bot login,Bot
+20,2,29,19,10,spam bot login,Bot
+68,0,21,155,2,spam bot login,Bot
+31,4,46,89,9,spam bot login,Bot
+76,3,61,152,6,spam bot login,Bot
+32,4,50,38,6,spam bot login,Bot
+27,5,62,175,7,spam bot login,Bot
+25,1,76,50,1,spam bot login,Bot
+70,2,21,170,5,spam bot login,Bot
+10,2,76,66,9,spam bot login,Bot
+59,3,42,50,8,spam bot login,Bot
+74,2,16,142,9,spam bot login,Bot
+16,3,54,129,5,spam bot login,Bot
+76,3,51,112,10,spam bot login,Bot
+53,1,41,35,7,spam bot login,Bot
+61,2,59,64,8,spam bot login,Bot
+30,1,23,50,2,spam bot login,Bot
+45,5,38,124,9,spam bot login,Bot
+69,4,27,30,4,spam bot login,Bot
+23,1,52,85,6,spam bot login,Bot
+31,5,22,130,4,spam bot login,Bot
+36,3,15,124,2,spam bot login,Bot
+35,2,34,39,8,spam bot login,Bot
+24,2,22,56,4,spam bot login,Bot
+37,4,76,139,3,spam bot login,Bot
+43,3,18,101,1,spam bot login,Bot
+15,1,44,57,6,spam bot login,Bot
+29,4,54,153,9,spam bot login,Bot
+57,3,59,73,3,spam bot login,Bot
+68,4,40,31,7,spam bot login,Bot
+14,4,63,27,2,spam bot login,Bot
+42,0,29,117,6,spam bot login,Bot
+26,2,57,112,6,spam bot login,Bot
+46,5,78,115,9,spam bot login,Bot
+76,2,45,45,6,spam bot login,Bot
+24,4,33,112,3,spam bot login,Bot
+71,0,10,113,7,spam bot login,Bot
+19,2,62,58,7,spam bot login,Bot
+59,5,65,14,7,spam bot login,Bot
+61,0,14,158,6,spam bot login,Bot
+60,3,40,36,7,spam bot login,Bot
+33,2,61,172,9,spam bot login,Bot
+54,0,44,199,7,spam bot login,Bot
+5,5,70,180,5,spam bot login,Bot
+7,5,45,35,9,spam bot login,Bot
+47,4,51,126,9,spam bot login,Bot
+46,1,16,50,7,spam bot login,Bot
+23,2,23,93,7,spam bot login,Bot
+54,2,42,55,9,spam bot login,Bot
+15,5,44,130,5,spam bot login,Bot
+31,1,13,24,8,spam bot login,Bot
+70,3,52,147,7,spam bot login,Bot
+68,3,54,4,10,spam bot login,Bot
+17,1,31,189,3,spam bot login,Bot
+27,2,70,24,5,spam bot login,Bot
+16,2,10,87,1,spam bot login,Bot
+27,2,45,119,2,spam bot login,Bot
+64,3,56,112,4,spam bot login,Bot
+17,1,15,103,2,spam bot login,Bot
+74,3,67,184,7,spam bot login,Bot
+17,0,33,41,7,spam bot login,Bot
+53,5,77,6,8,spam bot login,Bot
+75,1,74,119,8,spam bot login,Bot
+5,5,55,187,3,spam bot login,Bot
+14,3,28,54,9,spam bot login,Bot
+27,1,23,21,2,spam bot login,Bot
+12,1,30,114,4,spam bot login,Bot
+68,4,23,47,5,spam bot login,Bot
+5,3,17,59,6,spam bot login,Bot
+27,0,74,134,3,spam bot login,Bot
+66,4,37,156,1,spam bot login,Bot
+14,2,30,25,5,spam bot login,Bot
+43,5,13,139,3,spam bot login,Bot
+17,5,78,102,9,spam bot login,Bot
+24,2,37,153,2,spam bot login,Bot
+29,0,44,138,4,spam bot login,Bot
+66,1,52,54,2,spam bot login,Bot
+77,0,22,133,2,spam bot login,Bot
+21,3,58,40,2,spam bot login,Bot
+62,0,32,50,2,spam bot login,Bot
+48,3,17,18,3,spam bot login,Bot
+28,3,28,200,3,spam bot login,Bot
+8,0,78,194,9,spam bot login,Bot
+37,0,69,36,4,spam bot login,Bot
+18,3,79,191,5,spam bot login,Bot
+15,4,20,29,10,spam bot login,Bot
+40,2,71,6,4,spam bot login,Bot
+34,3,45,163,9,spam bot login,Bot
+48,4,39,101,8,spam bot login,Bot
+17,5,56,26,2,spam bot login,Bot
+12,5,15,52,1,spam bot login,Bot
+17,0,49,117,9,spam bot login,Bot
+29,5,57,178,4,spam bot login,Bot
+24,0,66,178,1,spam bot login,Bot
+14,4,47,157,5,spam bot login,Bot
+50,2,30,193,9,spam bot login,Bot
+49,4,10,132,7,spam bot login,Bot
+44,1,46,112,3,spam bot login,Bot
+49,4,69,84,4,spam bot login,Bot
+45,2,79,56,4,spam bot login,Bot
+10,2,29,191,3,spam bot login,Bot
+49,4,40,199,2,spam bot login,Bot
+38,5,46,103,1,spam bot login,Bot
+72,2,13,38,8,spam bot login,Bot
+74,3,42,164,9,spam bot login,Bot
+68,1,19,65,3,spam bot login,Bot
+58,3,62,15,6,spam bot login,Bot
+22,4,52,183,9,spam bot login,Bot
+48,3,11,184,6,spam bot login,Bot
+73,4,41,5,4,spam bot login,Bot
+43,5,41,190,8,spam bot login,Bot
+15,1,50,192,7,spam bot login,Bot
+34,2,26,137,7,spam bot login,Bot
+27,5,41,142,1,spam bot login,Bot
+20,2,79,20,5,spam bot login,Bot
+6,5,66,91,10,spam bot login,Bot
+46,2,50,188,1,spam bot login,Bot
+44,3,68,156,7,spam bot login,Bot
+67,5,12,169,2,spam bot login,Bot
+76,1,57,198,2,spam bot login,Bot
+19,0,35,61,10,spam bot login,Bot
+54,3,22,47,10,spam bot login,Bot
+25,3,80,198,2,spam bot login,Bot
+26,4,12,200,10,spam bot login,Bot
+68,4,17,42,10,spam bot login,Bot
+19,3,33,50,7,spam bot login,Bot
+46,0,12,110,10,spam bot login,Bot
+70,2,51,189,5,spam bot login,Bot
+15,5,16,37,5,spam bot login,Bot
+61,3,42,34,7,spam bot login,Bot
+80,1,28,22,2,spam bot login,Bot
+71,0,18,181,4,spam bot login,Bot
+74,4,26,91,6,spam bot login,Bot
+70,4,13,78,1,spam bot login,Bot
+60,5,68,127,8,spam bot login,Bot
+54,5,17,0,9,spam bot login,Bot
+17,3,54,36,5,spam bot login,Bot
+53,2,67,29,10,spam bot login,Bot
+9,3,15,200,3,spam bot login,Bot
+70,3,55,144,1,spam bot login,Bot
+37,1,21,66,10,spam bot login,Bot
+56,0,14,133,1,spam bot login,Bot
+57,4,43,141,3,spam bot login,Bot
+56,1,29,185,7,spam bot login,Bot
+28,2,51,35,9,spam bot login,Bot
+73,5,44,66,9,spam bot login,Bot
+53,3,33,43,9,spam bot login,Bot
+57,1,71,192,8,spam bot login,Bot
+36,3,73,75,1,spam bot login,Bot
+70,5,39,197,3,spam bot login,Bot
+46,3,38,75,1,spam bot login,Bot
+70,5,74,61,7,spam bot login,Bot
+9,2,72,12,2,spam bot login,Bot
+67,3,65,128,7,spam bot login,Bot
+40,5,19,163,1,spam bot login,Bot
+38,5,26,147,5,spam bot login,Bot
+51,3,22,36,6,spam bot login,Bot
+45,2,21,15,8,spam bot login,Bot
+58,0,46,48,3,spam bot login,Bot
+49,5,64,37,9,spam bot login,Bot
+66,0,77,90,10,spam bot login,Bot
+35,1,43,136,6,spam bot login,Bot
+78,1,42,60,6,spam bot login,Bot
+60,3,45,61,8,spam bot login,Bot
+57,2,67,17,4,spam bot login,Bot
+72,5,48,149,3,spam bot login,Bot
+41,5,49,11,7,spam bot login,Bot
+42,4,65,159,6,spam bot login,Bot
+8,3,56,8,5,spam bot login,Bot
+73,5,77,93,7,spam bot login,Bot
+42,4,56,1,1,spam bot login,Bot
+38,5,19,103,7,spam bot login,Bot
+39,1,27,42,5,spam bot login,Bot
+66,2,24,47,8,spam bot login,Bot
+60,5,50,8,6,spam bot login,Bot
+8,2,26,162,1,spam bot login,Bot
+77,0,76,63,7,spam bot login,Bot
+40,2,27,118,5,spam bot login,Bot
+36,3,28,62,4,spam bot login,Bot
+31,0,62,60,8,spam bot login,Bot
+15,2,35,42,9,spam bot login,Bot
+19,4,24,144,7,spam bot login,Bot
+36,4,17,99,7,spam bot login,Bot
+60,0,27,96,2,spam bot login,Bot
+5,3,80,87,9,spam bot login,Bot
+75,1,19,149,5,spam bot login,Bot
+10,2,37,192,6,spam bot login,Bot
+80,1,45,6,9,spam bot login,Bot
+40,5,57,82,4,spam bot login,Bot
+36,0,25,57,8,spam bot login,Bot
+19,0,28,162,9,spam bot login,Bot
+27,1,29,104,5,spam bot login,Bot
+36,3,60,119,5,spam bot login,Bot
+72,3,74,81,8,spam bot login,Bot
+25,4,46,156,7,spam bot login,Bot
+56,2,27,83,3,spam bot login,Bot
+74,3,43,139,4,spam bot login,Bot
+36,1,31,127,7,spam bot login,Bot
+66,5,53,38,2,spam bot login,Bot
+11,0,72,40,2,spam bot login,Bot
+22,5,57,65,1,spam bot login,Bot
+42,1,23,81,8,spam bot login,Bot
+19,0,11,84,6,spam bot login,Bot
+47,3,36,149,5,spam bot login,Bot
+77,0,57,173,9,spam bot login,Bot
+77,0,50,128,3,spam bot login,Bot
+25,5,38,62,10,spam bot login,Bot
+10,2,40,90,8,spam bot login,Bot
+70,1,15,56,9,spam bot login,Bot
+21,0,72,111,2,spam bot login,Bot
+75,0,48,97,9,spam bot login,Bot
+8,5,71,12,5,spam bot login,Bot
+53,5,24,56,1,spam bot login,Bot
+37,3,47,194,10,spam bot login,Bot
+66,3,66,111,6,spam bot login,Bot
+65,0,62,197,10,spam bot login,Bot
+8,0,60,50,1,spam bot login,Bot
+27,0,48,33,9,spam bot login,Bot
+35,1,29,191,5,spam bot login,Bot
+66,0,13,40,2,spam bot login,Bot
+15,2,62,20,9,spam bot login,Bot
+44,5,57,39,7,spam bot login,Bot
+41,4,23,47,8,spam bot login,Bot
+13,3,22,124,3,spam bot login,Bot
+31,0,76,157,9,spam bot login,Bot
+9,1,11,109,6,spam bot login,Bot
+78,2,75,127,5,spam bot login,Bot
+79,0,39,156,4,spam bot login,Bot
+16,1,16,13,9,spam bot login,Bot
+22,0,26,114,1,spam bot login,Bot
+51,2,58,110,1,spam bot login,Bot
+47,1,78,117,8,spam bot login,Bot
+70,5,50,22,1,spam bot login,Bot
+12,1,57,77,4,spam bot login,Bot
+27,3,64,30,9,spam bot login,Bot
+10,3,48,169,1,spam bot login,Bot
+14,0,46,90,6,spam bot login,Bot
+12,5,21,70,5,spam bot login,Bot
+72,0,73,184,3,spam bot login,Bot
+66,0,69,1,10,spam bot login,Bot
+63,1,46,14,7,spam bot login,Bot
+54,2,25,179,9,spam bot login,Bot
+22,5,66,65,8,spam bot login,Bot
+5,1,66,64,9,spam bot login,Bot
+80,4,63,179,10,spam bot login,Bot
+16,4,56,153,7,spam bot login,Bot
+59,3,65,130,3,spam bot login,Bot
+61,4,75,53,3,spam bot login,Bot
+5,2,16,32,7,spam bot login,Bot
+28,5,67,26,3,spam bot login,Bot
+79,2,63,124,7,spam bot login,Bot
+46,4,73,191,2,spam bot login,Bot
+42,4,11,32,5,spam bot login,Bot
+55,2,12,8,7,spam bot login,Bot
+68,0,63,80,1,spam bot login,Bot
+8,3,27,131,9,spam bot login,Bot
+80,3,42,4,1,spam bot login,Bot
+62,4,41,34,8,spam bot login,Bot
+59,4,73,152,3,spam bot login,Bot
+46,5,35,21,3,spam bot login,Bot
+51,2,33,181,5,spam bot login,Bot
+41,3,76,105,4,spam bot login,Bot
+44,5,49,84,2,spam bot login,Bot
+58,2,35,41,8,spam bot login,Bot
+65,4,15,33,6,spam bot login,Bot
+8,1,61,9,4,spam bot login,Bot
+15,2,11,199,6,spam bot login,Bot
+68,3,68,37,6,spam bot login,Bot
+44,1,20,64,4,spam bot login,Bot
+7,4,21,200,1,spam bot login,Bot
+20,4,37,150,10,spam bot login,Bot
+76,5,62,183,5,spam bot login,Bot
+31,4,68,67,5,spam bot login,Bot
+11,4,55,41,7,spam bot login,Bot
+43,3,12,78,1,spam bot login,Bot
+8,3,72,136,9,spam bot login,Bot
+42,2,50,166,9,spam bot login,Bot
+41,3,72,40,5,spam bot login,Bot
+71,5,13,8,7,spam bot login,Bot
+7,1,79,31,3,spam bot login,Bot
+16,4,15,53,8,spam bot login,Bot
+63,0,15,107,5,spam bot login,Bot
+46,3,25,200,8,spam bot login,Bot
+54,4,12,179,3,spam bot login,Bot
+78,0,15,85,5,spam bot login,Bot
+52,2,35,151,4,spam bot login,Bot
+33,1,62,106,5,spam bot login,Bot
+46,1,62,153,10,spam bot login,Bot
+56,4,70,115,9,spam bot login,Bot
+36,4,44,22,7,spam bot login,Bot
+58,0,49,183,2,spam bot login,Bot
+50,5,59,44,5,spam bot login,Bot
+32,2,23,32,7,spam bot login,Bot
+31,1,11,40,1,spam bot login,Bot
+42,4,39,108,3,spam bot login,Bot
+19,5,42,155,10,spam bot login,Bot
+44,1,38,122,8,spam bot login,Bot
+33,1,34,153,4,spam bot login,Bot
+55,4,16,103,3,spam bot login,Bot
+65,1,17,70,7,spam bot login,Bot
+63,3,38,118,1,spam bot login,Bot
+57,2,27,48,2,spam bot login,Bot
+44,3,75,2,8,spam bot login,Bot
+61,3,63,164,10,spam bot login,Bot
+46,4,30,175,4,spam bot login,Bot
+52,1,40,13,7,spam bot login,Bot
+40,2,31,94,8,spam bot login,Bot
+76,3,26,153,1,spam bot login,Bot
+31,4,14,29,8,spam bot login,Bot
+64,0,70,47,8,spam bot login,Bot
+26,2,31,49,5,spam bot login,Bot
+75,4,20,118,8,spam bot login,Bot
+71,3,70,196,5,spam bot login,Bot
+80,4,64,18,2,spam bot login,Bot
+77,5,50,99,10,spam bot login,Bot
+43,4,77,32,8,spam bot login,Bot
+49,4,36,173,9,spam bot login,Bot
+52,4,25,126,7,spam bot login,Bot
+9,2,19,141,8,spam bot login,Bot
+7,3,80,98,5,spam bot login,Bot
+21,5,45,171,3,spam bot login,Bot
+55,2,76,88,9,spam bot login,Bot
+50,0,52,177,3,spam bot login,Bot
+27,0,74,69,5,spam bot login,Bot
+44,0,39,118,7,spam bot login,Bot
+75,4,72,110,8,spam bot login,Bot
+7,0,32,12,9,spam bot login,Bot
+23,3,26,106,6,spam bot login,Bot
+53,1,18,182,5,spam bot login,Bot
+17,1,62,151,2,spam bot login,Bot
+56,5,47,17,6,spam bot login,Bot
+59,4,20,103,7,spam bot login,Bot
+76,5,42,72,10,spam bot login,Bot
+67,4,30,29,9,spam bot login,Bot
+37,3,39,179,10,spam bot login,Bot
+76,1,41,10,5,spam bot login,Bot
+15,3,77,143,5,spam bot login,Bot
+24,2,78,52,8,spam bot login,Bot
+40,2,70,130,7,spam bot login,Bot
+31,4,73,186,9,spam bot login,Bot
+51,2,66,176,6,spam bot login,Bot
+53,2,46,73,5,spam bot login,Bot
+33,0,70,116,6,spam bot login,Bot
+79,3,74,157,3,spam bot login,Bot
+12,3,34,163,9,spam bot login,Bot
+44,5,22,198,7,spam bot login,Bot
+52,0,25,36,4,spam bot login,Bot
+24,4,62,72,8,spam bot login,Bot
+75,5,34,81,3,spam bot login,Bot
+65,5,70,62,9,spam bot login,Bot
+16,1,18,181,5,spam bot login,Bot
+27,2,60,150,3,spam bot login,Bot
+59,5,12,39,7,spam bot login,Bot
+41,2,27,158,8,spam bot login,Bot
+77,5,74,96,3,spam bot login,Bot
+17,4,10,191,4,spam bot login,Bot
+32,4,46,107,1,spam bot login,Bot
+42,4,13,54,4,spam bot login,Bot
+58,3,39,69,8,spam bot login,Bot
+64,3,48,70,2,spam bot login,Bot
+50,1,41,102,1,spam bot login,Bot
+45,2,51,171,8,spam bot login,Bot
+41,2,59,36,3,spam bot login,Bot
+7,1,31,4,2,spam bot login,Bot
+70,5,32,10,5,spam bot login,Bot
+9,5,22,71,2,spam bot login,Bot
+65,5,43,98,1,spam bot login,Bot
+43,2,62,24,7,spam bot login,Bot
+54,0,14,40,3,spam bot login,Bot
+57,0,76,34,5,spam bot login,Bot
+12,1,31,182,10,spam bot login,Bot
+37,2,68,23,9,spam bot login,Bot
+78,1,30,98,8,spam bot login,Bot
+48,1,23,113,2,spam bot login,Bot
+71,5,16,62,3,spam bot login,Bot
+29,3,74,75,5,spam bot login,Bot
+32,5,78,68,10,spam bot login,Bot
+53,1,26,63,4,spam bot login,Bot
+28,1,15,184,7,spam bot login,Bot
+64,0,63,82,5,spam bot login,Bot
+61,4,58,179,10,spam bot login,Bot
+23,2,16,136,4,spam bot login,Bot
+52,0,59,134,10,spam bot login,Bot
+58,2,62,24,5,spam bot login,Bot
+79,1,49,112,6,spam bot login,Bot
+16,3,64,116,8,spam bot login,Bot
+11,4,72,13,7,spam bot login,Bot
+47,1,69,149,9,spam bot login,Bot
+27,0,66,91,1,spam bot login,Bot
+66,0,34,113,8,spam bot login,Bot
+47,0,39,147,1,spam bot login,Bot
+58,2,69,69,7,spam bot login,Bot
+24,3,52,14,8,spam bot login,Bot
+6,2,12,99,4,spam bot login,Bot
+41,0,48,171,8,spam bot login,Bot
+52,5,71,123,9,spam bot login,Bot
+65,5,37,20,2,spam bot login,Bot
+67,4,70,81,7,spam bot login,Bot
+38,1,80,126,2,spam bot login,Bot
+19,2,48,192,9,spam bot login,Bot
+22,0,18,195,4,spam bot login,Bot
+23,5,12,140,7,spam bot login,Bot
+72,4,43,198,10,spam bot login,Bot
+56,3,52,160,6,spam bot login,Bot
